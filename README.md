@@ -2,7 +2,9 @@
 Project End to End
 # Project End to End: PostgreSQL, Dockerm Airflow, AWS, Snowflake, DBT, Looker Studio
 
-![alt text](image.png)
+## Architecture
+![image](https://github.com/user-attachments/assets/564455e3-1100-4883-9e0c-8cc87a437371)
+
 
 ## Requirements
 - AWS, Snowflake, DBT Cloud, and Looker Studio accounts
@@ -21,3 +23,6 @@ DBT was used to perform data transformations in the data warehouse and to apply 
 
 Finally, Looker Studio was integrated and configured with Snowflake, and a dashboard was created in the tool to visualize the data.
 
+
+## Dashboard
+![dashboard_nova_drive_motors](https://github.com/user-attachments/assets/7ae58c5b-e092-4183-8e1d-3bd5c0ff85eb)
